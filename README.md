@@ -30,6 +30,7 @@
 | 工具 | 用途 | 推荐理由 / 使用心得 | 价格 | 推荐人 |
 |---|---|---|---|---|
 | [agency-agents](https://github.com/msitarzewski/agency-agents) | 现成的 AI 专家角色合集（前端、后端、代码审查、提示词工程师等），给 AI 套上专家人设 | 可以直接复制角色文件贴进任意 AI 对话，也能一键装进 Claude Code、Cursor 等工具。[详细用法](tools/agency-agents.md) | 免费开源 | taraYK |
+| [Jev](https://docs.typesafe.ai/introduction/quickstart) | TypeSafe 的决策模型：不写文字，给一段材料加几道选择/打分/是非题，直接返回带概率的答案 | 适合在程序里做分类、打标签、路由，比如给公告/新闻批量打标签；只支持文本，判断可能选错，要用自己的数据检验。[详细用法](tools/jev.md) | 按量付费：输入 $0.042/百万 token，输出免费（官方 2026-10-22） | taraYK |
 
 ## ✍️ 写作 / 办公
 
