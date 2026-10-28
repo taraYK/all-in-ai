@@ -61,6 +61,7 @@
 | 提示词 | 用途 | 推荐理由 / 使用心得 | 价格 | 推荐人 |
 |---|---|---|---|---|
 | [HUMAN3_PROMPT](https://github.com/chiisen/HUMAN3_PROMPT) | 让 AI 当访谈者，按心智、身体、灵性、职业四个方面引导你做自我反思 | 复制提示词贴进任意 AI 就能用，有繁体中文版；结果仅供反思参考，不是心理测验。[详细用法](tools/human3-prompt.md) | 免费开源 | taraYK |
+| [中文写作去AI味规则](tools/chinese-writing-rules.md) | 约束中文回复清楚、语序正常、语气克制，避免模板化抒情和表态式碎句 | 生成中文时优先保证信息清楚；适合贴进系统提示词或写作指令。[详细用法](tools/chinese-writing-rules.md) | 免费 | taraYK |
 
 ## 🧪 想试还没试
 
