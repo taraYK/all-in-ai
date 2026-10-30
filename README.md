@@ -54,6 +54,7 @@
 | 工具 | 用途 | 推荐理由 / 使用心得 | 价格 | 推荐人 |
 |---|---|---|---|---|
 | [mi-health-exporter](https://github.com/LilZeeCN/mi-health-exporter) | 把小米运动健康（手环）的心率、睡眠、步数、血氧等数据导出成 CSV，方便交给 AI 分析 | 纯 Python、不用装依赖，修正了时间戳偏移的坑；非官方工具，登录凭证会明文存在本地，注意保管。[详细用法](tools/mi-health-exporter.md) | 免费开源 | taraYK |
+| [openGym](https://github.com/DuarteSantos8/openGym) | 可自托管的健身 / 力量训练记录应用：动作库、周计划、渐进负荷，有手机和手表端 | 数据存在自己服务器，无订阅、广告和遥测；Docker 部署，需要自己运维和备份；可选 AI 教练和 MCP（用自己的 API key），AI 建议不能代替医生意见。[详细用法](tools/opengym.md) | 免费开源（AGPL-3.0） | taraYK |
 
 ## 🌐 网络工具
 
